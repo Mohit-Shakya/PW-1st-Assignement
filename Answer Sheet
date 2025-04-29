@@ -1,8 +1,26 @@
-Getting Started With HTML
+Getting Started With HTML Assingement
 
 1.Write a simple program in HTML  that displays the heading "HTML defines the content and structure of your website” on the web browser?
-Ans. Follow the Assignement code
+Ans. Follow the Assignement code see code.
 
 2.Explain the purpose of comments in HTML and provide an example of how to use comments in an HTML document?
 Ans. The Comment tag is used to add note or explanition about the code which is not appear in Web brower as output.
-      Example<!-- This is a comment -->
+      Example<!-- This is a comment --> (and also use comment tag on Html code). 
+
+3. Write an HTML program that includes a heading, a paragraph of text, a horizontal line, and a line break.Arrange these elements to create a simple web page layout?
+Ans. Follow the Assignment Code to see code.
+
+4.Write a short note on Tag and element with an example?
+Ans.
+     TAG: Tag in HTML is a keyword enclosed in angle brackets (< >) that defines the type of content.There are opening tags and closing tags. 
+         Example <p>....</p>
+         <p> This is an open tag.
+         </p> This is a Closing tag.
+      
+      Element: An HTML element includes the opening tag, the content, and the closing tag.It represents the complete structure.
+      Example <p>This is a paragraph.</p> Here, the entire line is a paragraph element.
+
+5. What is the DOCTYPE Declaration in HTML?
+Ans. The DOCTYPE declaration in HTML (e.g., <!DOCTYPE html>) is a statement at the beginning of an HTML document that specifies the document type and version of HTML being used. 
+     It ensures that the browser renders the page in standards mode, following the correct rules for that version (e.g., HTML5).
+      
