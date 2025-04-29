@@ -1,3 +1,8 @@
-# PW-1st-Assignement
-This has has 1 and 3 question's answer
-asdsadasdasdas
+Getting Started With HTML
+
+1.Write a simple program in HTML  that displays the heading "HTML defines the content and structure of your website” on the web browser?
+Ans. Follow the Assignement code
+
+2.Explain the purpose of comments in HTML and provide an example of how to use comments in an HTML document?
+Ans. The Comment tag is used to add note or explanition about the code which is not appear in Web brower as output.
+      Example<!-- This is a comment -->
